@@ -1,0 +1,30 @@
+.checkoutleft{
+
+}
+
+.checoutprod{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.checkprodimg{
+    object-fit: contain;
+    width: 200px;
+    height: 200px;
+}
+
+.checkprodinfo{
+    margin-top:50px;
+    padding-left: 20px;
+    
+}
+
+.checkprodinfo > button{
+    background-color: burlywood;
+}
+
+.checkprodtitle{
+    font-size: 17px;
+    font-weight: 800;
+}
+
